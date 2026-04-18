@@ -1,6 +1,6 @@
 cask "docket" do
-  version "0.2.0"
-  sha256 "d1e4bfc24e3e8bc69e277a3d46013b0bf74409b9710c30bb3cef163d5cee8997"
+  version "0.3.0"
+  sha256 "b28b7765051c113bbf9fb240d75327e255a894cc8187931e451f5172e2f12754"
 
   url "https://github.com/cailurus/homebrew-docket/releases/download/v#{version}/Docket-v#{version}.dmg"
   name "Docket"
